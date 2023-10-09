@@ -1,4 +1,4 @@
-A simple calculator made with JavaScript and CSS /n
+A simple calculator made with JavaScript and CSS.
 To view the App click here --> https://graycloud98.github.io/calculator/
 
 # Getting Started with Create React App
