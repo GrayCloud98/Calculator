@@ -1,3 +1,7 @@
+A simple calculator made with JavaScript and CSS.
+
+To view the App click here --> https://graycloud98.github.io/calculator/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
